@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: #141414 url("https://blogger.googleusercontent.com/img/a/AVvXsEgWoMxAuXuF8Gvsoa4WQZmBiUtb30aDhEbJBoDDkrg57qkGauu-0r7Ilgn-nOcEiShjyYF4iXSJfRVHKJwzSx9g_cN6JrgRMpv41LHxxrATw2jSVFrlMt5ShGayyBgWytPED8jr1bMjwxWFsstdsw1Y0LMu7zui4lcSyk4F_9zyjfdeupAHy_-dT9Fh");
+    background-size: cover;
+    background-position: 50%;
+    height: 100vh;
+}
+
+svg {
+    position: absolute;
+    top: 50%;
+    margin-top: -60px;
+    left: 50%;
+    margin-left: -225px;
+}
